@@ -1,0 +1,18 @@
+h1{font-family: 'Creepster', cursive;
+  text-shadow: 3px 2px black;
+}
+h2{font-family: 'Creepster', cursive;
+  text-shadow: 3px 2px black;
+}
+td{text-align:center;}
+h1{
+  text-align:center;
+}
+body{
+  background-image: url("background.jpg");
+  background-repeat:no-repeat;
+  background-position:center top;
+}
+h1, h2, a{
+  color:rgb(167, 0, 0);
+}
